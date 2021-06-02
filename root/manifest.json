@@ -1,0 +1,6 @@
+{
+    "name": "IBX-Analytics",
+    "description": " A google chrome extension that displays on-screen analytics",
+    "version": "1.0",
+    "manifest_version": 3 
+}
